@@ -1,0 +1,10 @@
+INFO:root:|2023-12-22 23:38:21|-(create_query)
+INFO:root:|2023-12-22 23:38:21|-(update_query)
+INFO:root:|2023-12-22 23:38:21|-(read_query)
+INFO:root:[2023-12-22 23:38:21|:Done
+INFO:root:|2023-12-22 23:38:21|-(insert_query)
+INFO:root:|2023-12-22 23:38:21|-(read_query)
+INFO:root:[2023-12-22 23:38:21|:Done
+INFO:root:|2023-12-22 23:38:21|-(delete_query)
+INFO:root:|2023-12-22 23:38:21|-(read_query)
+INFO:root:[2023-12-22 23:38:21|:Done
